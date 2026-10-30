@@ -1,0 +1,21 @@
+PassengerId,Prediction,Result
+566,0,Not Survived
+161,0,Not Survived
+554,0,Not Survived
+861,0,Not Survived
+242,1,Survived
+560,0,Not Survived
+388,1,Survived
+537,1,Survived
+699,0,Not Survived
+100,0,Not Survived
+127,0,Not Survived
+334,0,Not Survived
+217,1,Survived
+818,0,Not Survived
+28,0,Not Survived
+704,0,Not Survived
+486,0,Not Survived
+512,0,Not Survived
+434,0,Not Survived
+577,1,Survived
